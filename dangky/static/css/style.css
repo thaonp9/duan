@@ -1,0 +1,8 @@
+body{
+    background-color: pink;
+    text-align: center;
+
+}
+.hinhnen{
+    background: url("/static/img/OIP.jpg") 50% 0 no-repeat fixed;
+}
